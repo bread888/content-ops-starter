@@ -1,6 +1,6 @@
 ---
 title: Pagamenti e Prezzi
-slug: Pagamenti e Prezzi
+slug: pricing
 sections:
   - title:
       text: Pagamenti e Prezzi
