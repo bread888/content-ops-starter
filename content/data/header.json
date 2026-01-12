@@ -23,7 +23,7 @@
         {
             "label": "Servizi",
             "altText": "Servuzu",
-            "url": "/blog",
+            "url": "/services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
