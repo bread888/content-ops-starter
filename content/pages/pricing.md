@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Pagina dei prezzi
     plans: []
     colors: bg-light-fg-dark
     styles:
