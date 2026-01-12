@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Pagamenti e Prezzi
 slug: pricing
 sections:
   - title:
